@@ -300,7 +300,7 @@
 
 ＊＊＊
 
-<img src="./Chapter1_koron.jpg" width=256 height=auto> <img src="./Chapter1_roro.jpg" width=256 height=auto>
+<img src="./Chapter_01_koron.jpg" width=256 height=auto> <img src="./Chapter_01_roro.jpg" width=256 height=auto>
 
 それからは二人は尻尾も耳も隠さずに一緒に遊びました。もうバレているのだから、隠す必要もないですからね。お互いの尻尾の色を見比べたり、触って感触を確かめたり。たぬきの方が丸っこいけど、キツネのほうがやわらかいねえ。そうやって遊んでいるうちに、お互いはお互いの尻尾や耳を可愛くて綺麗だな、と好きになりました。かくれんぼ以外にも、いままで出来なかった遊びも、キツネやタヌキの姿のままになることで、たくさん出来るようになりました。
 
