@@ -1,5 +1,7 @@
 # キツネとタヌキと、にんげんと。
 
+<img src="./Chapter1_koron.jpg" width=256 height=auto> <img src="./Chapter1_roro.jpg" width=256 height=auto>
+
 とある昔、とある山、とある苔のむす森に、キツネ族とタヌキ族が住んでいました。
 
 でも、キツネ族とタヌキ族は、お互いにいがみあっていました。
